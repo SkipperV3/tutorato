@@ -30,9 +30,21 @@ url = "/aritmetica/"
 weight = 2
 [[menu.main]]
 identifier = "analisi"
-name = "Analisi"
-url = "/analisi/"
+name = "Analisi I"
+url = "/analisi1/"
 weight = 3
+
+[[menu.main]]
+identifier = "geometria"
+name = "Geometria I"
+url = "/geometria1/"
+weight = 4
+
+[[menu.main]]
+identifier = "allapari"
+name = "Tutorato alla Pari"
+url = "/allapari/"
+weight = 4
 
 ########################
 # TEXIFY THEME OPTIONS #
