@@ -19,9 +19,9 @@ style = "monokai" # syntax highlight style, see https://xyproto.github.io/splash
 
 # https://gohugo.io/content-management/menus/
 [[menu.main]]
-identifier = "home" # section id
-name = "Home"       # section display title
-url = "/"           # path to the section
+identifier = "info" # section id
+name = "Info"       # section display title
+url = "/info"           # path to the section
 weight = 1          # order of sections
 [[menu.main]]
 identifier = "aritmetica"
