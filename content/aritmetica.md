@@ -1,1 +1,1 @@
-Ecco gli [esercizi](/tutorato/esercizi.pdf)
+Eccovi gli [esercizi](/tutorato/esercizi.pdf)
