@@ -27,12 +27,12 @@ weight = 1          # order of sections
 identifier = "aritmetica"
 name = "Aritmetica"
 url = "/aritmetica/"
-weight = 2
+weight = 3
 [[menu.main]]
 identifier = "analisi"
 name = "Analisi I"
 url = "/analisi1/"
-weight = 3
+weight = 2
 
 [[menu.main]]
 identifier = "geometria"
