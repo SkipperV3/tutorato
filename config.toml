@@ -1,4 +1,4 @@
-baseURL = 'https://aelathil.github.io/tutorato'
+baseURL = 'https://aelathil.github.io'
 languageCode = 'it-it'
 title = 'Tutorato 2023-2024, I semestre'
 theme = 'hugo-theme-texify'
