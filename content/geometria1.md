@@ -1,2 +1,2 @@
 ## Info
-*Tutor:* Marco Tavano.
+**Tutor:** Marco Tavano.
