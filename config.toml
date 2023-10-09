@@ -13,7 +13,7 @@ name = ""          # your name
 [markup]
 defaultMarkdownHandler = "goldmark"
 [markup.goldmark.renderer]
-unsafe = false # enable html in markdown
+unsafe = true # enable html in markdown
 [markup.highlight]
 style = "monokai" # syntax highlight style, see https://xyproto.github.io/splash/docs/
 
