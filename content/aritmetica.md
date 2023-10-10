@@ -6,4 +6,10 @@ Oltre a rispondere alle vostre domande, che sarà la priorità, segnalerò alcun
 
 Siete caldamente invitati a *tentare* (alcuni de)gli esercizi durante la settimana: il grado di successo non è rilevante, ma discutere insieme di un esercizio che avete già affrontato è molto più utile che assistere passivamente al suo svolgimento. 
 
- 
+## Esercizi
+
+**Esercizi per venerdì 13 ottobre:** dalle dispense, 
+<ul>
+<li> Sezione 1, esercizi 4, 6, 7, 10, 13, 17, 19, 30;
+<li> Sezione 2, esercizi 1, 3, 4, 6, 8.
+</ul>
