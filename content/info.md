@@ -20,7 +20,7 @@ Finché il venerdì mattina è occupato da LIMCO, l'orario è **provvisorio**. C
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |9-11| 	 |   |   |  | Aritmetica <br> Aula Magna |
 |11-13|	 |   |   |  | Analisi I <br> Aula Magna |
-|14-16|	 | Tut. alla Pari<br> Aula N1  |   | Geometria 1<br> Aula G  |  |
+|14-16|	 | Tut. alla Pari<br> Aula N1  |   | Geometria I<br> Aula G  |  |
 |16-18|	 |   |   |  |  | 
 
 </div>
