@@ -13,3 +13,9 @@ Siete caldamente invitati a *tentare* (alcuni de)gli esercizi durante la settima
 <li> Sezione 1, esercizi 4, 6, 7, 10, 13, 17, 19, 30;
 <li> Sezione 2, esercizi 1, 3, 4, 6, 8.
 </ul>
+
+## Pdf dei Tutorati svolti
+
+<ul>
+<li> Tutorato del [13 ottobre 2023](/TutoratoAritmetica13102023/)
+</ul>
