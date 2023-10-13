@@ -17,5 +17,5 @@ Siete caldamente invitati a *tentare* (alcuni de)gli esercizi durante la settima
 ## Pdf dei Tutorati svolti
 
 <ul>
-<li> Tutorato del [13 ottobre 2023](TutoratoAritmetica13102023)
+<li> Tutorato del [13 ottobre 2023](/static/TutoratoAritmetica13102023)
 </ul>
