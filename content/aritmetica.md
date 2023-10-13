@@ -9,10 +9,9 @@ Siete caldamente invitati a *tentare* (alcuni de)gli esercizi durante la settima
 ## Esercizi
 
 **Esercizi per venerdì 13 ottobre:** dalle dispense, 
-<ul>
-<li> Sezione 1, esercizi 4, 6, 7, 10, 13, 17, 19, 30;
-<li> Sezione 2, esercizi 1, 3, 4, 6, 8.
-</ul>
+
+- Sezione 1, esercizi 4, 6, 7, 10, 13, 17, 19, 30;
+- Sezione 2, esercizi 1, 3, 4, 6, 8.
 
 ## Pdf dei Tutorati svolti
 
