@@ -11,16 +11,13 @@ Precisiamo che **il tutorato alla pari**, in cui potete fare domande su qualsias
 
 Finché il venerdì mattina è occupato da LIMCO, l'orario è **provvisorio**. Controllate spesso la tabella sotto per eventuali variazioni.
 
-**Importante:** la sospensione della didattica di venerdì 13 ottobre riguarda i corsi ma **non** i tutorati, che si svolgeranno regolarmente come da orario sotto.
-<br>
-
 <div align="center" style="margin-top:1cm;">
 
 |  | Lun | Mar | Mer | Gio | Ven |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|9-11| 	 |   |   |  | Aritmetica <br> Aula Magna |
-|11-13|	 |   |   |  | Analisi I <br> Aula Magna |
-|14-16|	 | Tut. alla Pari<br> Aula N1  |   | Geometria I<br> Aula G  |  |
+|9-11| 	 |   |   |  |  |
+|11-13|	 |   |   |  |  |
+|14-16|	 | Tut. alla Pari<br> Aula 2  |   |  |  |
 |16-18|	 |   |   |  |  | 
 
 </div>
