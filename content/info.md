@@ -19,5 +19,6 @@ Finché il venerdì mattina è occupato da LIMCO, l'orario è **provvisorio**. C
 |11-13|	 |   |   |  |  |
 |14-16|	 | Tut. alla Pari<br> Aula 2  |   |  | Analisi I<br> Aula G  |
 |16-18|	 |   |   |  | Aritmetica <br> Aula G | 
+|18-20|  |   |   |  Tut. alla Pari<br> Aula 2 | | 
 
 </div>
