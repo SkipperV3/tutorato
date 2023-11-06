@@ -16,9 +16,9 @@ Finché il venerdì mattina è occupato da LIMCO, l'orario è **provvisorio**. C
 |  | Lun | Mar | Mer | Gio | Ven |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |9-11| 	 |   |   |  |  |
-|11-13|	 |   |   |  |  |
-|14-16|	 |   |   |  | Analisi I<br> Aula G  |
-|16-18|	 |   |   |  | Tut. alla Pari<br> Aula 2 | 
-|18-20|  |   |   |  Tut. alla Pari<br> Aula 2 | | 
+|11-13|	 |   |   |  | Tut. alla Pari Aula 2<br> Tut. Geometria 1|
+|14-16|	 |   | Tut. alla Pari<br> Aula 2  |   |  |  |
+|16-18|	 |   |   |  |  | 
+|18-20|  |   |   |  |  | 
 
 </div>
